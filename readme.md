@@ -44,7 +44,13 @@ Each generation's folder will include:
 
 The folder after running the code will look something like this depending upon the maximum number of generations we take (for this demo, we took 5):
 
-![Folder structure after running the Code](https://github.com/Aarush-Kashyap-221CS201/CC_Project_Team_9/blob/87a43506daf06b797b94210a7850c3eef0db8d0a/images/ss.png)
+![Folder structure after running the Code](https://github.com/Aarush-Kashyap-221CS201/CC_Project_Team_9/blob/3bdf87d6e91c4ae1e5b3d1616aa6bf2bc7f87f68/images/folder_structure.png)
+
+The final output/allocations are stored in the final.txt and will look something like this:
+
+![Final output after running the Code](https://github.com/Aarush-Kashyap-221CS201/CC_Project_Team_9/blob/3bdf87d6e91c4ae1e5b3d1616aa6bf2bc7f87f68/images/final_output.png)
+
+**Note:** Please refer to the report for extensive output display
 
 **Note:** Only the first generation will have the initial solutions, which will be randomly generated. After that, every generation uses the solutions from the previous generation
 
