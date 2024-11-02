@@ -42,7 +42,8 @@ Each generation's folder will include:
 3. Solutions after crossover.
 4. Mutated solutions from the previous generation.
 
-**Note:** Only the first generation will have the initial solutions, which will be randomly generated. Thereafter, every generation uses the solutions from the previous generation
+**Note:** Only the first generation will have the initial solutions, which will be randomly generated. After that, every generation uses the solutions from the previous generation
+
 **Note:** The offloading decisions are based primarily on processing time to ensure optimal performance.
 
 ### Conclusion
