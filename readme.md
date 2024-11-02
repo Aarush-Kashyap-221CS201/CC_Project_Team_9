@@ -13,7 +13,7 @@ The aim of this project is to design and implement an **energy-efficient**, **Se
 Our methodology includes the following steps:
 1. **Parameter Generation:** Generate necessary parameters for simulation.
 2. **Initialization:** Set up initial offloading solutions.
-3. **Evaluation:** Assess the fitness of the solutions based on processing time and energy consumption.
+3. **Evaluation:** Assess the fitness of the solutions based on processing time.
 4. **Selection:** Choose the best-performing solutions for the next generation.
 5. **Crossover:** Create new solutions by combining features from selected solutions.
 6. **Mutation:** Introduce variability into the solutions to maintain diversity in the population.
@@ -42,6 +42,7 @@ Each generation's folder will include:
 3. Solutions after crossover.
 4. Mutated solutions from the previous generation.
 
+**Note:** Only the first generation will have the initial solutions, which will be randomly generated. Thereafter, every generation uses the solutions from the previous generation
 **Note:** The offloading decisions are based primarily on processing time to ensure optimal performance.
 
 ### Conclusion
