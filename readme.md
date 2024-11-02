@@ -46,7 +46,7 @@ Each generation's folder will include:
 
 **Note:** The offloading decisions are based primarily on processing time to ensure optimal performance.
 
-### Conclusion
+## Conclusion
 This project demonstrates the potential of genetic algorithms in optimizing computation offloading in vehicular networks. By leveraging edge and cloud computing resources efficiently, we can enhance system performance and meet energy constraints. The findings contribute to ongoing research in cloud computing and intelligent vehicular networks, paving the way for smarter and more sustainable solutions in the future. The implementation shows how integrating genetic algorithms can effectively address the challenges of computation offloading while maintaining compliance with SLAs and optimizing energy usage.
 
 The results indicate a significant improvement in resource allocation efficiency, as seen in the final output file, where the best solution yields a fitness score that reflects optimal processing time adherence and effective resource utilization.
