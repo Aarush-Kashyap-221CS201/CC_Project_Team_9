@@ -44,7 +44,7 @@ Each generation's folder will include:
 
 The folder after running the code will look something like this depending upon the maximum number of generations we take (for this demo, we took 5):
 
-
+![Folder structure after running the Code](https://github.com/Aarush-Kashyap-221CS201/CC_Project_Team_9/blob/87a43506daf06b797b94210a7850c3eef0db8d0a/images/ss.png)
 
 **Note:** Only the first generation will have the initial solutions, which will be randomly generated. After that, every generation uses the solutions from the previous generation
 
