@@ -40,7 +40,7 @@ Each generation's folder will include:
 1. Solutions evaluated for fitness.
 2. Selected solutions for crossover.
 3. Solutions after crossover.
-4. Mutated solutions from the previous generation.
+4. Mutated solutions generated from the crossover.
 
 The folder after running the code will look something like this depending upon the maximum number of generations we take (for this demo, we took 5):
 
