@@ -42,6 +42,10 @@ Each generation's folder will include:
 3. Solutions after crossover.
 4. Mutated solutions from the previous generation.
 
+The folder after running the code will look something like this depending upon the maximum number of generations we take (for this demo, we took 5):
+
+
+
 **Note:** Only the first generation will have the initial solutions, which will be randomly generated. After that, every generation uses the solutions from the previous generation
 
 **Note:** The offloading decisions are based primarily on processing time to ensure optimal performance.
